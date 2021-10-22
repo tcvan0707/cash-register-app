@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+
+    <string name="productType">Product Type</string>
+    <string name="total">Total</string>
+    <string name="buy">Buy</string>
+    <string name="manager">Manager</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="clear">C</string>
+    <string name="quantity">Quantity</string>
+
+    <string name="managerHistoryButton">History</string>
+
+    <string name="inputValidationErrorMessage">All fields are required.</string>
+    <string name="stockQuantityErrorMessage">Not enough products in stock.</string>
+
+    <string name="productReceiptDialogTitle">Thank You for your purchase</string>
+    <string name="productReceiptDialogMessage">Your purchase is %d %s for $%.2f</string>
+
+    <string name="purchaseDetailType">Product: %s</string>
+    <string name="purchaseDetailPrice">Price: $%.2f</string>
+    <string name="purchaseDetailDate">Purchase Date: %s</string>
+
+    <string name="productPrice">Product Price</string>
+    <string name="productQuantity">Product Quantity</string>
+
+    <string name="purchaseQuantity">Purchase Quantity</string>
+    <string name="purchaseTotal">Purchase Total</string>
+
+</resources>
